@@ -1,6 +1,6 @@
 {
   "name": "promisify-github",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Manipulating resources on Github by promises super easily.",
   "main": "index.js",
   "scripts": {
