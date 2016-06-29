@@ -6,11 +6,13 @@ Manipulating resources on Github by promises super easily.
 
 * delRepo
 
+```javascript
 /**
  * @param  {string} repo_name
  * @return {promise}
  */
 function delRepo(repo_name)
+```
 
 * newRepo
 
